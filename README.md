@@ -21,7 +21,7 @@ The original design and look of the website was not changed in anyway, the code 
 
 ## Screenshot
 
-    ![screenshot of the website page](assets/images/01-html-css-git-challenge-demo.png)
+![Screenshot of website](assets/images/01-html-css-git-challenge-demo.png)
 
 ## License
 
